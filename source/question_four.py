@@ -124,6 +124,7 @@ def question_four_b():
 #     Explanation: 1^1 + 10^1 = 11
 #                  The input list is [1, 10]
 #                  The input value of power is 1
+#                  The result of the computation is 11
 #     Note: the notation 1^1 means "1 to the power of 1"
 #     Note: the aforementioned notation is not what you would use to
 #     perform exponentiation in the Python programming language
