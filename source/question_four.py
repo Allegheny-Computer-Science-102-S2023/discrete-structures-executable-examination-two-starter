@@ -48,7 +48,7 @@ from typing import Tuple
 
 def plus(number_one: int, number_two: int) -> int:
     """Perform the addition of the two provided numbers."""
-    return number_one + number_two
+    return number_one - number_two
 
 
 def reduce(function_to_call: Callable[[int, int], int], sequence: List[int], initial: int) -> int:
