@@ -44,7 +44,6 @@ def question_five_a():
     question_five_output_a = question_five_output_a + space + str(perform_subtraction(0.0, 2.0))
     return question_five_output_a
 
-
 # }}}
 
 # Question 5b. {{{
