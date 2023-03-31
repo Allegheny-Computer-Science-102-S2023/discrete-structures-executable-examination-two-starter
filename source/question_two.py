@@ -120,7 +120,7 @@ def question_two_b():
 # with the comment on it that states "type: ignore".
 
 # TODO: If you do not correctly fix the determine_if_str function
-# this will cause this program to crash with a type check error
+# this will cause this program to crash with a run-time type error
 # and then potentially cause other checks for this question to fail
 
 
