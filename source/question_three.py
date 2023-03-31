@@ -100,7 +100,7 @@ def question_three_b():
 # --> For instance, if the function receives [0, 0, 0] as
 #     an input it returns ([0], 2) as the output
 
-# Note that as you consider how to implement create_unique_list you may
+# TODO: Note that as you consider how to implement create_unique_list you may
 # want to explore the use of a set discrete structure. However, if you
 # adopt this approach you need to remember that, while a set ensures that its
 # values are unique it also does not guarantee a predictable ordering of its values.
